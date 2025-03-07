@@ -18,7 +18,8 @@ This project focuses on analyzing retail data to extract insights and trends. Th
 ## Repository Structure
 
   # Datasets
-  [click here]()
+  [transaction_data]()
+  [purchase_behaviour](https://github.com/edigasreelekha/Retail_startegy-analyticals/blob/main/purchase_behaviour%20csv.csv)
   # Jupyter notebooks with analysis
   [click here]()
 
