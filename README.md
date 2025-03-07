@@ -21,7 +21,7 @@ This project focuses on analyzing retail data to extract insights and trends. Th
 ├── notebooks/             # Jupyter notebooks with analysis
 ├── scripts/               # Python scripts for data processing and analysis
 ├── images/                # Images for visualizations
-├── README.md              # Project overview and documentation
+
 
 
 ## How to Use
