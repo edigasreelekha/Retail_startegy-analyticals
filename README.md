@@ -20,8 +20,9 @@ This project focuses on analyzing retail data to extract insights and trends. Th
   # Datasets
   [transaction_data](https://github.com/edigasreelekha/Retail_startegy-analyticals/blob/main/transaction_data%20csv.csv)
   [purchase_behaviour](https://github.com/edigasreelekha/Retail_startegy-analyticals/blob/main/purchase_behaviour%20csv.csv)
+ 
   # Jupyter notebooks with analysis
-  [click here]()
+  [click here](https://github.com/edigasreelekha/Retail_startegy-analyticals/blob/main/project_pwc%20(1).ipynb)
 
 
 # Python scripts for data processing and analysis
@@ -106,10 +107,6 @@ def generate_analysis_pdf(transaction_file, customer_file, output_pdf):
 
     except Exception as e:
         print(f"An error occurred: {e}")
-
-
-# Images for visualizations
-
 
 
 ## How to Use
